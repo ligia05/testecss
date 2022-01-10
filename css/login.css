@@ -45,3 +45,12 @@ background: linear-gradient(337deg, rgba(94,164,65,1) 2%, rgba(84,149,85,1) 47%,
     margin-left: 30px; 
     border-radius: 20px 40px 60px 80px;
 }
+.log{
+    background-color: rgba(225, 253, 198, 0.377);
+    width: 300px;
+    height: 180px;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: 5px 8px 16px 8px rgba(129, 185, 111, 0.383);
+}
